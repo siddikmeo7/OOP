@@ -6,3 +6,4 @@ class Vehisle:
 my_vihisle=Vehisle(360,2000)
 print(my_vihisle._max_spead)
 print(my_vihisle._miliage)
+# here must be Vehicle
